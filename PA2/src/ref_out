@@ -1,0 +1,3 @@
+"../../TEST/longcomment.cool", line 1: syntax error at or near TYPEID = Comment
+"../../TEST/longcomment.cool", line 1: syntax error at or near OBJECTID = test
+Compilation halted due to lex and parse errors
